@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.class{
+	display:
+	justify-center:center;
+	align:items:center;
+}
+#image{
+	width:100%;
+	height:10%;
+	object-fit:cover;
+}
+.type{
+	padding:10px;
+	background-color:orange;
+	color:white;
+	border-radius:10px;
+}
